@@ -1,6 +1,6 @@
 {
   "name": "@jarusll/user-avatar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A user avatar web component",
   "main": "src/index.js",
   "scripts": {},
