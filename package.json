@@ -1,5 +1,5 @@
 {
-  "name": "user-avatar",
+  "name": "@jarusll/user-avatar",
   "version": "1.0.0",
   "description": "A user avatar web component",
   "main": "index.js",
