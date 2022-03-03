@@ -18,12 +18,16 @@ class UserAvatar extends HTMLElement {
                     font-family: 'IBM Plex Sans', sans-serif;
                 }
                 #name {
+                    font-weight: 700;
+                    padding: 0.5rem;
+                    margin-bottom: 0.2rem;
                 }
                 #image {
                     border-radius: 100%;
                     height: 200px;
                 }
                 #title {
+                    margin-top: 0.2rem;
                     font-weight: 200;
                 }
             </style>
