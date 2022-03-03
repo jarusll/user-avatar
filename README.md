@@ -5,4 +5,4 @@ You can use me by
 - `<user-avatar name="NAME" image="IMAGE_URL" title="HEADING"></user-avatar>`
 
 I look like
-- ![Preview](./preview.png)
+- ![Preview](preview.png)
