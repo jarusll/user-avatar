@@ -1,0 +1,13 @@
+{
+  "name": "user-avatar",
+  "version": "1.0.0",
+  "description": "A user avatar web component",
+  "main": "index.js",
+  "scripts": {},
+  "sideEffects": false,
+  "keywords": ["avatar", "user", "hero"],
+  "author": "Suraj Yadav <ysuraj877@gmail.com> (https://jarusll.github.io)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
