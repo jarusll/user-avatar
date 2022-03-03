@@ -21,6 +21,7 @@ class UserAvatar extends HTMLElement {
                 }
                 #image {
                     border-radius: 100%;
+                    height: 200px;
                 }
                 #title {
                     font-weight: 200;
@@ -28,7 +29,7 @@ class UserAvatar extends HTMLElement {
             </style>
             <div id="container">
                 <h2 id="name">${this.name}</h2>
-                <img id="image" src=${this.image}/>
+                <img id="image" src="${this.image}" />
                 <h4 id="title">${this.title}</h4>
             </div>
         `
