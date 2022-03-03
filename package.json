@@ -1,11 +1,15 @@
 {
   "name": "@jarusll/user-avatar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A user avatar web component",
   "main": "src/index.js",
   "scripts": {},
   "sideEffects": false,
-  "keywords": ["avatar", "user", "hero"],
+  "keywords": [
+    "avatar",
+    "user",
+    "hero"
+  ],
   "author": "Suraj Yadav <ysuraj877@gmail.com> (https://jarusll.github.io)",
   "license": "MIT",
   "dependencies": {},
